@@ -1,0 +1,23 @@
+{
+  "runtimes": [
+    {
+      "value": "nodejs",
+      "name": "NodeJS",
+      "layerExecutablePath": "nodejs/node_modules",
+      "cloudTemplateValue": "nodejs12.x"
+    }
+  ],
+  "layerVersionMap": {
+    "1": {
+      "permissions": [
+        {
+          "type": "public"
+        },
+        {
+          "type": "private"
+        }
+      ],
+      "hash": "ttGf3m1/uVcCYKUF26Z+wPTMPEpSyuT/j1+ET/TxynY="
+    }
+  }
+}

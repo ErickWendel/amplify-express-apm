@@ -1,0 +1,16 @@
+cd amplify/backend/function/layerblog4dac28df/nodejs/
+doesn't generate the nodejs folder
+
+
+After adding a new function it shows
+```
+Successfully added resource mememaker locally.
+
+Next steps:
+Check out sample function code generated in <project-dir>/amplify/backend/function/mememaker/src
+```
+there's nothing on this folder
+
+graphql
+
+Should show how to use a simple graphql API before adding 3rd services (such as how to use resolvers)

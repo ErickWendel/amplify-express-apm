@@ -1,0 +1,8 @@
+aws configure
+
+mkdir app && cd app
+amplify init
+    Enter a name for the project mememaker
+
+API KEY: da2-dpuy2xavszfmdjqldf4zehqd6q
+amplify codegen -> gera codigo
